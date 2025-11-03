@@ -1,0 +1,7 @@
+{
+  "name": "Edu Tracker",
+  "description": "An online course management system for educators, enhanced with powerful AI features from Gemini. Educators can create courses, manage content, and track progress, while students can enroll, access materials, and submit assignments. The app includes an AI chatbot with multiple modes, content generation tools, and research assistants powered by Google Search and Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
